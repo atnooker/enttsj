@@ -6,7 +6,7 @@
 (function (global) {
   const idb = {
     _db: null,
-    DB_NAME: 'WordMasterDBYJ',
+    DB_NAME: 'WordMasterDBSJ',
     DB_VERSION: 1,               // 需要改结构时+1
     STORE_CONFIG: 'config',
     STORE_VOCABS: 'vocabularies',
